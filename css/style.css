@@ -1,3 +1,16 @@
 h2{
   color : red;
 }
+.navbar-top{
+	background-color: teal;
+    border-radius: 0;
+    border-color: teal;
+    box-shadow: 0 2px 10px #716e6e;
+}
+.navbar-top .custom-navbar-nav > li > a{
+	color:#fff;
+}
+.navbar-top .custom-navbar-nav > li > a:hover{
+	color:#fff;
+	background-color:#000;
+}
